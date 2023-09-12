@@ -65,7 +65,7 @@ Use automated release management to coordinate and monitor deployments, enabling
 
 In this exercise, you will set up a basic CI/CD pipeline for a sample application using a CI/CD tool of your choice (e.g., Azure DevOps or GitHub Actions). You will automate code building, testing, and deployment to a staging environment.
 
-Instructions for the exercise can be found in the [Exercise: CI/CD Integration](./exercise-ci-cd-integration.md) document.
+> Instructions for the exercise can be found in the [Exercise: CI/CD Integration](./exercise-ci-cd-integration.md) document.
 
 ## Conclusion
 

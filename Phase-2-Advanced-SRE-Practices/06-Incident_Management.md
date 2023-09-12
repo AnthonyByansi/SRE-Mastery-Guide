@@ -83,7 +83,7 @@ Post-incident analysis identifies root causes, documents lessons learned, and de
 
 In this exercise, you will participate in a simulated incident response scenario. You will practice incident detection, response, and post-incident analysis. The goal is to gain hands-on experience in handling incidents effectively.
 
-Instructions for the exercise can be found in the [Exercise: Simulated Incident Response](./exercise-incident-response.md) document.
+> Instructions for the exercise can be found in the [Exercise: Simulated Incident Response](./exercise-incident-response.md) document.
 
 ## Conclusion
 

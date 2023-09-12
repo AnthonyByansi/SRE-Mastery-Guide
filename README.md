@@ -52,7 +52,7 @@ To begin your journey, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/AzureSRE-Mastery-Guide.git
+   https://github.com/AnthonyByansi/SRE-Mastery-Guide.git
    ```
 
 2. Navigate to the relevant phase directory (e.g., `Phase-1-Fundamentals`) and start exploring the resources and exercises provided.

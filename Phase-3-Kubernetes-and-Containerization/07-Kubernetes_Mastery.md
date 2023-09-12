@@ -91,7 +91,7 @@ Kubernetes can seamlessly integrate with Azure services like Azure Monitor, Azur
 
 In this exercise, you will deploy a sample application to a Kubernetes cluster, configure scaling based on resource metrics, and explore high availability strategies. This hands-on experience will deepen your understanding of Kubernetes in action.
 
-Instructions for the exercise can be found in the [Exercise: Deploying and Scaling Applications in Kubernetes](./exercise-kubernetes-deployment.md) document.
+> Instructions for the exercise can be found in the [Exercise: Deploying and Scaling Applications in Kubernetes](./exercise-kubernetes-deployment.md) document.
 
 ## Conclusion
 

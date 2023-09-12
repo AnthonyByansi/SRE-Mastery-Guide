@@ -64,12 +64,6 @@ Utilize official documentation, online courses, and books to prepare for your ch
 
 Practice exams and hands-on labs can help you gauge your readiness and improve your test-taking skills.
 
-## Exercise: Creating a Personal Certification Roadmap
-
-In this exercise, you will create a personal certification roadmap that outlines your career goals and the certifications you plan to pursue. This roadmap will serve as a guide for your professional development.
-
-Instructions for the exercise can be found in the [Exercise: Creating a Personal Certification Roadmap](./exercise-certification-roadmap.md) document.
-
 ## Conclusion
 
 Certifications are valuable assets in your SRE journey, offering opportunities for career growth and expertise validation. By pursuing relevant certifications and continuously learning, you can stay at the forefront of SRE practices.

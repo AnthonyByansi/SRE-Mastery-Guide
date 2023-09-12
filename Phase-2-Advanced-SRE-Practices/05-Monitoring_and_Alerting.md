@@ -73,7 +73,7 @@ Establish clear incident management processes to address alerts effectively. Def
 
 In this exercise, you will set up basic monitoring and alerts for a sample application. You will use a monitoring tool of your choice (e.g., Azure Monitor or Prometheus/Grafana) to collect and visualize metrics, set up alerts, and practice incident response.
 
-Instructions for the exercise can be found in the [Exercise: Setting Up Monitoring and Alerts](./exercise-monitoring-alerts.md) document.
+> Instructions for the exercise can be found in the [Exercise: Setting Up Monitoring and Alerts](./exercise-monitoring-alerts.md) document.
 
 ## Conclusion
 

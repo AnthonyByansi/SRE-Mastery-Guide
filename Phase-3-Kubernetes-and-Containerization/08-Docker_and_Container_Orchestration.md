@@ -72,7 +72,7 @@ Implement security best practices, including image scanning, access control, and
 
 In this exercise, you will Dockerize an application, create a Dockerfile, and then orchestrate its deployment using a container orchestration platform (e.g., Kubernetes or Docker Swarm). This hands-on exercise will help you gain practical experience in containerization and orchestration.
 
-Instructions for the exercise can be found in the [Exercise: Dockerizing and Orchestrating Applications](./exercise-docker-orchestration.md) document.
+> Instructions for the exercise can be found in the [Exercise: Dockerizing and Orchestrating Applications](./exercise-docker-orchestration.md) document.
 
 ## Conclusion
 

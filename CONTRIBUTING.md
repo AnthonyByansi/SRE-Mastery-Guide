@@ -79,7 +79,7 @@ When you're ready to submit your contribution, follow these steps:
 
 ## Code of Conduct
 
-Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) in place. Be respectful and considerate in all your interactions within this repository.
+Please note that we have a [Code of Conduct](./CODE_OF_CONDUCT.md) in place. Be respectful and considerate in all your interactions within this repository.
 
 ## License
 

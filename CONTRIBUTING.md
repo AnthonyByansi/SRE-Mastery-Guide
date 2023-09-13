@@ -20,14 +20,14 @@ Thank you for your interest in contributing to the AzureSRE Mastery Guide reposi
 
 ### Fork the Repository
 
-To contribute, start by forking this repository to your GitHub account. Click the "Fork" button at the top right of this repository.
+To contribute, start by forking this repository to your GitHub account. Click the `"Fork"` button at the top right of this repository.
 
 ### Clone Your Fork
 
 Clone your forked repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/AnthonyByansi/SRE-Mastery-Guide.git
+git clone https://github.com/AnthonyByansi/SRE-Mastery-Guide.git`
 ```
 
 ### Create a Branch
@@ -57,7 +57,7 @@ If you're contributing code:
 
 ### Issue Reporting
 
-If you encounter a bug or have a suggestion, please open an issue in the [Issues](https://github.com/your-username/AzureSRE-Mastery-Guide/issues) section. Be sure to provide detailed information about the problem or enhancement you're reporting.
+If you encounter a bug or have a suggestion, please open an issue in the [Issues](https://github.com/AnthonyByansi/SRE-Mastery-Guide.git) section. Be sure to provide detailed information about the problem or enhancement you're reporting.
 
 ## Submitting Your Contribution
 

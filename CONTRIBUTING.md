@@ -73,7 +73,7 @@ When you're ready to submit your contribution, follow these steps:
    git push origin my-contribution
    ```
 
-3. Open a pull request (PR) from your fork to the main repository. Be sure to provide a clear and descriptive title for your PR. In the PR description, explain the purpose and details of your contribution.
+3. Open a `pull request (PR)` from your `fork` to the main repository. Be sure to provide a clear and descriptive title for your PR. In the PR description, explain the purpose and details of your contribution.
 
 4. Your PR will be reviewed by the maintainers. You may need to make additional changes based on their feedback.
 

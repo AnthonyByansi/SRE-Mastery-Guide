@@ -1,7 +1,7 @@
 
 # AzureSRE Mastery Guide
 
-![SRE Banner](link-to-image)
+![SRE Banner](images/icons8-engineering-96.png)
 
 Welcome to the AzureSRE Mastery Guide repository. This comprehensive guide is designed to take you from scratch to advanced mastery in Site Reliability Engineering (SRE) with a focus on Azure, Azure DevOps, and DevOps best practices.
 
